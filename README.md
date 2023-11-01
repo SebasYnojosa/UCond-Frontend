@@ -1,2 +1,2 @@
 # UCond
-UCond - Tu condominio de confianza
+UCond - La tranquilidad de estar al día

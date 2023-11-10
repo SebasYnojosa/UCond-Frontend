@@ -1,5 +1,9 @@
 # UCond
 
+![Logo de UCond](/img/logo.png)
+
+### LA TRANQUILIDAD DE ESTAR AL DÍA
+
 UCond proviene de la combinación de las palabras inglesas "you" la cual se abrevia como "U" y "condominium".
 El nombre refleja la esencia y el propósito fundamental de la aplicación, que se centra en la gestión integral de condominios.
 **U** sugiere una experiencia centrada en el usuario.
@@ -39,5 +43,3 @@ El nombre refleja la esencia y el propósito fundamental de la aplicación, que 
 - [ ] Funcionalidad para la creación y participación en foros  (Semana 13-15)
 - [ ] Funcionalidad de encuestas  (Semana 13-14)
 - [ ] Funcionalidades de reserva de condominio  (Semana 15-16)
-
-### LA TRANQUILIDAD DE ESTAR AL DÍA
